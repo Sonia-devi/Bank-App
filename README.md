@@ -5,19 +5,19 @@
 
 
 
-#  Acceptance Criteria
+###  Acceptance Criteria
 Acceptance Criteria 
 
 When the application is  launched the customer should be able to open an account. 
 
   * It is done when the user enters an email and receives a code to verify if the email is correct. 
 
-  * It is done when the user provides his full name and mobile number 
+  * It is done when the user provides his full name and mobile number. 
 
  
 
 The application should be able to allow the customer to withdraw cash from the account. 
-  * It is done when a customer enters an amount and press withdraw button 
+  * It is done when a customer enters an amount and press withdraw button. 
 
   * It is done when the balance is reduced by the amount. 
 
